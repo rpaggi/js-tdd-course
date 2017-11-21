@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Curso de JS com TDD\u001b[H\u001b[D\u001b[A\u001b[B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpaggi/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Ronaldo Paggi <ronaldo.paggi@gmail.com> (http://rpaggi.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rpaggi/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/rpaggi/js-tdd-course#readme"
+}
