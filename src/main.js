@@ -4,7 +4,7 @@ const b = 1;
 const c = 'xpto';
 
 function sum() {
-  return a + b + c;
+  return a + b + c
 }
 
 sum();
